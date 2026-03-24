@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+
+build/
+bin/
+out/
+
+*.db
+*.bin
+*.page
+*.log
+
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
